@@ -16,7 +16,7 @@
 - 💬 Ask me about **Python, Deep Learning, and AI-driven Applications**  
 - 🎯 Interested in bridging **AI, Finance, and Real-world Impact**
 - 📫 Reach me at: **hongekarrahull@gmail.com**  
-- 🔗 Explore My Projects: [GitHub Profile](https://github.com/RahulH007)  
+- 🔗 Explore My Project: [Portfolio](https://rahulh007.github.io/)  
 
 ---
 
