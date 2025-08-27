@@ -1,22 +1,22 @@
 # Hi 👋, I'm Rahul Hongekar  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" align="right" />
 
 
-💡 A Passionate AIML Engineer | Aspiring Quant Finance Enthusiast  
+ A Passionate AIML Engineer | Aspiring Quant Finance Enthusiast  
 
-📚 Currently pursuing a degree in **BE AIML** in Bangalore  
+ Currently pursuing a degree in **B.E AIML** in Bangalore  
 
 ![Profile views](https://komarev.com/ghpvc/?username=rahulhongekar&label=Profile%20views&color=0e75b6&style=flat)
 
 
 
 
-## 🚀 About Me
-- 🔭 Currently building **AI-powered systems** including Smart Inventory Management & AutoML AI Agents  
-- 🌱 Exploring **Quant Finance, GenAI frameworks, and Advanced AI Agents**  
-- 💬 Ask me about **Python, Deep Learning, and AI-driven Applications**  
-- 🎯 Interested in bridging **AI, Finance, and Real-world Impact**
-- 📫 Reach me at: **hongekarrahull@gmail.com**  
-- 🔗 Explore My Project: [Portfolio](https://rahulh007.github.io/)  
+##  About Me
+-  Currently building **AI-powered systems** and learning more about LLMs  
+-  Exploring **Quant Finance, GenAI frameworks, and Advanced AI Agents**  
+-  Ask me about **Python, Deep Learning, and AI-driven Applications**  
+-  Interested in bridging **AI, Finance, and Real-world Impact**
+-  Reach me at: **hongekarrahull@gmail.com**  
+-  Explore My Project: [Portfolio](https://rahulh007.github.io/)  
 
 ---
 
