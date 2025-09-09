@@ -49,6 +49,8 @@
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF5722?style=for-the-badge&logo=ai&logoColor=white)
 ![Phidata](https://img.shields.io/badge/Phidata-3B82F6?style=for-the-badge&logo=ai&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-10B981?style=for-the-badge&logo=ai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FF6C37?style=for-the-badge&logo=huggingface&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
