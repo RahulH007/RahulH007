@@ -5,8 +5,6 @@
 
  Currently pursuing a degree in **B.E AIML** in Bangalore  
 
-![Profile views](https://komarev.com/ghpvc/?username=rahulhongekar&label=Profile%20views&color=0e75b6&style=flat)
-
 
 
 
